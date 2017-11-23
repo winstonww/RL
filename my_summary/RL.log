@@ -1,0 +1,311 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.1.5)  24 MAY 2017 23:30
+entering extended mode
+**"C:/Users/winst/Google Drive/3S/ECE521/Materials/reinforcement learning/UCL/m
+y summary/RL.tex"
+
+("C:/Users/winst/Google Drive/3S/ECE521/Materials/reinforcement learning/UCL/my
+ summary/RL.tex"
+LaTeX2e <2015/10/01> patch level 2
+Babel <3.9m> and hyphenation patterns for 69 languages loaded.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks14
+\ex@=\dimen103
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen104
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count87
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count88
+\leftroot@=\count89
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count90
+\DOTSCASE@=\count91
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count92
+\c@MaxMatrixCols=\count93
+\dotsspace@=\muskip10
+\c@parentequation=\count94
+\dspbrk@lvl=\count95
+\tag@help=\toks15
+\row@=\count96
+\column@=\count97
+\maxfields@=\count98
+\andhelp@=\toks16
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks17
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 94.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count99
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\titlesec\titlesec.sty"
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box28
+\beforetitleunit=\skip46
+\aftertitleunit=\skip47
+\ttl@plus=\dimen114
+\ttl@minus=\dimen115
+\ttl@toksa=\toks20
+\titlewidth=\dimen116
+\titlewidthlast=\dimen117
+\titlewidthfirst=\dimen118
+) (RL.aux
+(ch1.aux) (ch2.aux))
+\openout1 = `RL.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count100
+\scratchdimen=\dimen119
+\scratchbox=\box29
+\nofMPsegments=\count101
+\nofMParguments=\count102
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count103
+\MPscratchDim=\dimen120
+\MPnumerator=\count104
+\makeMPintoPDFobject=\count105
+\everyMPtoPDFconversion=\toks22
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 15.
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 15.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+{C:/Users/winst/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+\openout2 = `ch1.aux'.
+
+ (ch1.tex
+<model.png, id=7, 428.60126pt x 463.23062pt>
+File: model.png Graphic file (type png)
+ <use model.png>
+Package pdftex.def Info: model.png used on input line 3.
+(pdftex.def)             Requested size: 214.3001pt x 231.61473pt.
+
+Overfull \hbox (2.53806pt too wide) in paragraph at lines 19--20
+[] \OT1/cmr/bx/n/10 Def-i-ni-tion \OT1/cmr/m/n/10 The \OT1/cmr/bx/n/10 en-vi-ro
+n-men-tal state\OT1/cmr/m/n/10 , $\OML/cmm/m/it/10 S[]$ \OT1/cmr/m/n/10 , is th
+e in-for-ma-tion that $[]$
+ []
+
+[1
+
+ <./model.png>]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 44.
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 44.
+ [2]) [3]
+\openout2 = `ch2.aux'.
+
+ (ch2.tex <ch2fig1.png, id=29, 533.49312pt x 472.76625pt>
+File: ch2fig1.png Graphic file (type png)
+
+<use ch2fig1.png>
+Package pdftex.def Info: ch2fig1.png used on input line 45.
+(pdftex.def)             Requested size: 266.74591pt x 236.38254pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[4
+
+
+] <ch2fig2.png, id=34, 545.53813pt x 446.66875pt>
+File: ch2fig2.png Graphic file (type png)
+ <use ch2fig2.png>
+Package pdftex.def Info: ch2fig2.png used on input line 69.
+(pdftex.def)             Requested size: 272.7684pt x 223.33382pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (1.11171pt too wide) in paragraph at lines 76--78
+\OT1/cmr/m/n/10 defines the be-hav-ior of the agent, is sta-tion-ary and de-pen
+-dent of the $[]$
+ []
+
+[5 <./ch2fig1.png>] [6 <./ch2fig2.png>]
+<ch2fig3.png, id=43, 428.60126pt x 463.23062pt>
+File: ch2fig3.png Graphic file (type png)
+ <use ch2fig3.png>
+Package pdftex.def Info: ch2fig3.png used on input line 105.
+(pdftex.def)             Requested size: 214.3001pt x 231.61473pt.
+
+<ch2fig4.png, id=44, 572.63937pt x 444.15938pt>
+File: ch2fig4.png Graphic file (type png)
+ <use ch2fig4.png>
+Package pdftex.def Info: ch2fig4.png used on input line 117.
+(pdftex.def)             Requested size: 286.31898pt x 222.07913pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<ch2fig5.png, id=45, 588.69937pt x 467.24562pt>
+File: ch2fig5.png Graphic file (type png)
+ <use ch2fig5.png>
+Package pdftex.def Info: ch2fig5.png used on input line 133.
+(pdftex.def)             Requested size: 294.34895pt x 233.62222pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[7 <./ch2fig3.png>]
+Overfull \hbox (13.62828pt too wide) in paragraph at lines 142--143
+[]\OT1/cmr/m/n/10 All op-ti-mal poli-cies achieve the same op-ti-mal action-val
+ue func-tion $\OML/cmm/m/it/10 q[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 s; a\OT1/cm
+r/m/n/10 ) =$
+ []
+
+<ch2fig6.png, id=49, 545.53813pt x 463.23062pt>
+File: ch2fig6.png Graphic file (type png)
+ <use ch2fig6.png>
+Package pdftex.def Info: ch2fig6.png used on input line 156.
+(pdftex.def)             Requested size: 272.7684pt x 231.61473pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<ch2fig7.png, id=50, 544.0325pt x 463.23062pt>
+File: ch2fig7.png Graphic file (type png)
+ <use ch2fig7.png>
+Package pdftex.def Info: ch2fig7.png used on input line 171.
+(pdftex.def)             Requested size: 272.01558pt x 231.61473pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) [8 <./ch2fig4.png>] [9 <./ch2fig5.png> <./ch2fig6.png>] [10 <./ch2fig7.png>]
+(RL.aux (ch1.aux) (ch2.aux)) ) 
+Here is how much of TeX's memory you used:
+ 2176 strings out of 493634
+ 27643 string characters out of 3141315
+ 90224 words of memory out of 3000000
+ 5536 multiletter control sequences out of 15000+200000
+ 12468 words of font info for 48 fonts, out of 3000000 for 9000
+ 1025 hyphenation exceptions out of 8191
+ 27i,9n,30p,439b,220s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmex10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmmi10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmmi7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmr17.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr
+7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.
+pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy5.pfb
+><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C
+:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/
+Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on RL.pdf (11 pages, 777888 bytes).
+PDF statistics:
+ 104 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+
